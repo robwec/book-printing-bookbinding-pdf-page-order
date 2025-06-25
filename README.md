@@ -1,4 +1,6 @@
 # pdf-book-printer
+Wow! Some scripts to turn PDFs into printable, bindable books by printing 2, 4, or any number of PDF pages to a single 8.5 x 11" sheet.
+
 Make books by editing PDFs for printing at 2-per-page or 4-per-page in correct order.
 
 This script is designed to convert PDFs for 2-per-page (left to right, then flip short edge) and 4-per-page (four stacks of consecutive pages which can then all be stacked) printing.
