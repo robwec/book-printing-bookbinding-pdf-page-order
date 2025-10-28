@@ -1,5 +1,5 @@
 # pdf-book-printer
-Wow! Some scripts to turn PDFs into printable, bindable books by printing 2, 4, or any number of PDF pages to a single 8.5 x 11" sheet.
+Wow! Here are some scripts to turn PDFs into printable, bindable books by printing 2, 4, or any number of PDF pages to a single 8.5 x 11" sheet.
 
 Make books by editing PDFs for printing at 2-per-page or 4-per-page in correct order.
 
